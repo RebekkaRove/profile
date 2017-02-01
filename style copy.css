@@ -1,0 +1,87 @@
+body {
+  background-image: url("images/baggrund.jpg");
+}
+
+.card {
+  background-color: rgba(255,255,255,0.8);
+  width: 800px;
+  border: solid #dedede 1px;
+  text-align: center;
+  padding: 17px;
+  margin: 10px auto;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+.card-contact {
+  width: 800px;
+  text-align: center;
+  padding: 22px;
+  margin: 10px auto;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+h1 {
+  color: #2F4858;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 40px;
+  color: #2F4858;
+}
+.head-pic {
+   width: 500px;
+}
+
+.light-text {
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+h3 {
+  font-size: 30px;
+  color: #2F4858;
+}
+
+h5 {
+  font-size: 20px;
+  color: #2F4858;
+}
+
+h1, h2 {
+  font-family: 'Shadows Into Light', cursive;
+}
+
+ul {
+list-style-type: none;
+}
+
+.img {
+  width: 400px;
+}
+
+a {
+  color: #2F4858;
+}
+
+a:hover {
+  color: #8C2155;
+  font-size: 20px;
+}
+
+p {
+  color: #2F4858;
+}
+
+.top-button {
+  text-align: center;
+}
+
+.social-media {
+  padding: 0px;
+}
+
+.social-media > li{
+  display: inline-block;
+}
